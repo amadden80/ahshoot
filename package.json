@@ -1,0 +1,22 @@
+{
+  "name": "ahshoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadden80/ahshoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amadden80/ahshoot/issues"
+  },
+  "homepage": "https://github.com/amadden80/ahshoot#readme",
+  "dependencies": {
+    "backtrace-js": "^0.0.12"
+  }
+}
